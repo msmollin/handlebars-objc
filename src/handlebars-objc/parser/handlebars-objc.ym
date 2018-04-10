@@ -17,6 +17,7 @@
 
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Wunreachable-code"
+#pragma clang diagnostic ignored "-Wconditional-uninitialized"
 
 
 %}
