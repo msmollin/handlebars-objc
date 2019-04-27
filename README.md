@@ -42,9 +42,9 @@ Integrate handlebars-objc into your project
 -------------------------------------------
 
 You have 3 options: 
- - [CocoaPods](https://github.com/fotonauts/handlebars-objc/blob/master/doc/Installation.md#cocoapods)
- - [Binary distribution](https://github.com/fotonauts/handlebars-objc/blob/master/doc/Installation.md#binary-distribution)
- - [Include handlebars-objc in your sources](https://github.com/fotonauts/handlebars-objc/blob/master/doc/Installation.md#include-handlebars-obj-as-a-subproject-in-xcode)
+ - [CocoaPods](https://github.com/msmollin/handlebars-objc/blob/master/doc/Installation.md#cocoapods)
+ - [Binary distribution](https://github.com/msmollin/handlebars-objc/blob/master/doc/Installation.md#binary-distribution)
+ - [Include handlebars-objc in your sources](https://github.com/msmollin/handlebars-objc/blob/master/doc/Installation.md#include-handlebars-obj-as-a-subproject-in-xcode)
 
 Render your first template 
 --------------------------
@@ -75,10 +75,10 @@ If you like to read reference documentation, read the [Handlebars public API ref
 Since handlebars-objc if fully compatible with handlebars.js, please refer to [handlebars.js documentation](http://handlebarsjs.com/) for a complete description of handlebars syntax. 
 
 The doc folder contains some guides that will help you learn how to use handlebars-objc step by step:
- - [Introduction](https://github.com/fotonauts/handlebars-objc/blob/master/README.md): This guide
- - [Installation](https://github.com/fotonauts/handlebars-objc/blob/master/doc/Installation.md): how to install handlebars-objc in your XCode project
- - [Context Objects](https://github.com/fotonauts/handlebars-objc/blob/master/doc/ContextObjects.md): How Handlebars accesses data in your context objects
- - [Writing Helpers](https://github.com/fotonauts/handlebars-objc/blob/master/doc/WritingHelpers.md): Learn how to write your own helpers
- - [Controlling Escaping](https://github.com/fotonauts/handlebars-objc/blob/master/doc/ControllingEscaping.md): Learn how to control escaping of values within your templates
- - [Localizing String](https://github.com/fotonauts/handlebars-objc/blob/master/doc/LocalizingStrings.md): Localize strings within your templates
+ - [Introduction](https://github.com/msmollin/handlebars-objc/blob/master/README.md): This guide
+ - [Installation](https://github.com/msmollin/handlebars-objc/blob/master/doc/Installation.md): how to install handlebars-objc in your XCode project
+ - [Context Objects](https://github.com/msmollin/handlebars-objc/blob/master/doc/ContextObjects.md): How Handlebars accesses data in your context objects
+ - [Writing Helpers](https://github.com/msmollin/handlebars-objc/blob/master/doc/WritingHelpers.md): Learn how to write your own helpers
+ - [Controlling Escaping](https://github.com/msmollin/handlebars-objc/blob/master/doc/ControllingEscaping.md): Learn how to control escaping of values within your templates
+ - [Localizing String](https://github.com/msmollin/handlebars-objc/blob/master/doc/LocalizingStrings.md): Localize strings within your templates
  
